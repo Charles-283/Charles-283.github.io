@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Charles' Space!"
 excert: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a first year Mphil student from [Microelectronics Thrust](https://www.hkust-gz.edu.cn/zh/academics/hubs-and-thrust-areas/function-hub/microelectronics/), [The Hong Kong University of Science and Technology(Guang Zhou)](https://www.hkust-gz.edu.cn/). My research interest includes software-hardware co-design for AI, GPU acceleration, AI chip design.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
