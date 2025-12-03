@@ -14,7 +14,7 @@ I am very fortunate to be advised by Prof. Xinyu Chen of [CLab Lab](https://sold
 
 You can find my CV here: [Huangxu's Curriculum Vitae](../assets/Huangxu_Chen-Resume.pdf).
 
-[Email](mailto:hchen499@connect.hkust-gz.edu.cn) / [Github](https://github.com/Charles-283) / [Wechat](../images/wechat.jpg)
+[Email](mailto:hchen499@connect.hkust-gz.edu.cn) / [Github](https://github.com/Charles-283)
 
 ## News
 
