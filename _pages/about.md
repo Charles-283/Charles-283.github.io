@@ -12,7 +12,7 @@ I'm a second year Mphil student from [Microelectronics Thrust](https://www.hkust
 
 I am very fortunate to be advised by Prof. Xinyu Chen of [CLab Lab](https://soldierchen.github.io/), HKUST(GZ). I was advised by Prof. Yi Zou from SCUT.
 
-You can find my CV here: [Huangxu's Curriculum Vitae](../assets/Personal_Resume_Huangxu_Chen.pdf).
+You can find my CV here: [Huangxu's Curriculum Vitae](../assets/Huangxu_Chen-Resume.pdf).
 
 [Email](mailto:hchen499@connect.hkust-gz.edu.cn) / [Github](https://github.com/Charles-283) / [Wechat](../images/wechat.jpg)
 
